@@ -1,0 +1,16 @@
+body {
+  margin: 1% 5%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bowlers-title {
+  text-align: center;
+}
+
+.bowler-table {
+  font-size: 0.8rem;
+}
+
+.bowler-table th {
+  background-color: #ddd;
+}
